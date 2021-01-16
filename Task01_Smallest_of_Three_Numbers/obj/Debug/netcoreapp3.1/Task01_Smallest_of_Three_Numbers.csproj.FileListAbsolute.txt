@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\04_Exercise\04_Exercise\bin\Debug\netcoreapp3.1\Task01_Smallest_of_Three_Numbers.exe
+C:\Users\Kiril\source\repos\04_Exercise\04_Exercise\bin\Debug\netcoreapp3.1\Task01_Smallest_of_Three_Numbers.deps.json
+C:\Users\Kiril\source\repos\04_Exercise\04_Exercise\bin\Debug\netcoreapp3.1\Task01_Smallest_of_Three_Numbers.runtimeconfig.json
+C:\Users\Kiril\source\repos\04_Exercise\04_Exercise\bin\Debug\netcoreapp3.1\Task01_Smallest_of_Three_Numbers.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\04_Exercise\04_Exercise\bin\Debug\netcoreapp3.1\Task01_Smallest_of_Three_Numbers.dll
+C:\Users\Kiril\source\repos\04_Exercise\04_Exercise\bin\Debug\netcoreapp3.1\Task01_Smallest_of_Three_Numbers.pdb
+C:\Users\Kiril\source\repos\04_Exercise\04_Exercise\obj\Debug\netcoreapp3.1\Task01_Smallest_of_Three_Numbers.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\04_Exercise\04_Exercise\obj\Debug\netcoreapp3.1\Task01_Smallest_of_Three_Numbers.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\04_Exercise\04_Exercise\obj\Debug\netcoreapp3.1\Task01_Smallest_of_Three_Numbers.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\04_Exercise\04_Exercise\obj\Debug\netcoreapp3.1\Task01_Smallest_of_Three_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\04_Exercise\04_Exercise\obj\Debug\netcoreapp3.1\Task01_Smallest_of_Three_Numbers.dll
+C:\Users\Kiril\source\repos\04_Exercise\04_Exercise\obj\Debug\netcoreapp3.1\Task01_Smallest_of_Three_Numbers.pdb
+C:\Users\Kiril\source\repos\04_Exercise\04_Exercise\obj\Debug\netcoreapp3.1\Task01_Smallest_of_Three_Numbers.genruntimeconfig.cache
