@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\04_Exercise\Task06_Middle_Characters\obj\Debug\netcoreapp3.1\Task06_Middle_Characters.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\04_Exercise\Task06_Middle_Characters\obj\Debug\netcoreapp3.1\Task06_Middle_Characters.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\04_Exercise\Task06_Middle_Characters\obj\Debug\netcoreapp3.1\Task06_Middle_Characters.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\04_Exercise\Task06_Middle_Characters\obj\Debug\netcoreapp3.1\Task06_Middle_Characters.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\04_Exercise\Task06_Middle_Characters\bin\Debug\netcoreapp3.1\Task06_Middle_Characters.exe
+C:\Users\Kiril\source\repos\04_Exercise\Task06_Middle_Characters\bin\Debug\netcoreapp3.1\Task06_Middle_Characters.deps.json
+C:\Users\Kiril\source\repos\04_Exercise\Task06_Middle_Characters\bin\Debug\netcoreapp3.1\Task06_Middle_Characters.runtimeconfig.json
+C:\Users\Kiril\source\repos\04_Exercise\Task06_Middle_Characters\bin\Debug\netcoreapp3.1\Task06_Middle_Characters.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\04_Exercise\Task06_Middle_Characters\bin\Debug\netcoreapp3.1\Task06_Middle_Characters.dll
+C:\Users\Kiril\source\repos\04_Exercise\Task06_Middle_Characters\bin\Debug\netcoreapp3.1\Task06_Middle_Characters.pdb
+C:\Users\Kiril\source\repos\04_Exercise\Task06_Middle_Characters\obj\Debug\netcoreapp3.1\Task06_Middle_Characters.dll
+C:\Users\Kiril\source\repos\04_Exercise\Task06_Middle_Characters\obj\Debug\netcoreapp3.1\Task06_Middle_Characters.pdb
+C:\Users\Kiril\source\repos\04_Exercise\Task06_Middle_Characters\obj\Debug\netcoreapp3.1\Task06_Middle_Characters.genruntimeconfig.cache
