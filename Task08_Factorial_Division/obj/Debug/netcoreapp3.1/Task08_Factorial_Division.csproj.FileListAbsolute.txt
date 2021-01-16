@@ -1,0 +1,12 @@
+C:\Users\Kiril\source\repos\04_Exercise\Task08_Factorial_Division\bin\Debug\netcoreapp3.1\Task08_Factorial_Division.exe
+C:\Users\Kiril\source\repos\04_Exercise\Task08_Factorial_Division\bin\Debug\netcoreapp3.1\Task08_Factorial_Division.deps.json
+C:\Users\Kiril\source\repos\04_Exercise\Task08_Factorial_Division\bin\Debug\netcoreapp3.1\Task08_Factorial_Division.runtimeconfig.json
+C:\Users\Kiril\source\repos\04_Exercise\Task08_Factorial_Division\bin\Debug\netcoreapp3.1\Task08_Factorial_Division.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\04_Exercise\Task08_Factorial_Division\bin\Debug\netcoreapp3.1\Task08_Factorial_Division.dll
+C:\Users\Kiril\source\repos\04_Exercise\Task08_Factorial_Division\bin\Debug\netcoreapp3.1\Task08_Factorial_Division.pdb
+C:\Users\Kiril\source\repos\04_Exercise\Task08_Factorial_Division\obj\Debug\netcoreapp3.1\Task08_Factorial_Division.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\04_Exercise\Task08_Factorial_Division\obj\Debug\netcoreapp3.1\Task08_Factorial_Division.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\04_Exercise\Task08_Factorial_Division\obj\Debug\netcoreapp3.1\Task08_Factorial_Division.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\04_Exercise\Task08_Factorial_Division\obj\Debug\netcoreapp3.1\Task08_Factorial_Division.dll
+C:\Users\Kiril\source\repos\04_Exercise\Task08_Factorial_Division\obj\Debug\netcoreapp3.1\Task08_Factorial_Division.pdb
+C:\Users\Kiril\source\repos\04_Exercise\Task08_Factorial_Division\obj\Debug\netcoreapp3.1\Task08_Factorial_Division.genruntimeconfig.cache
