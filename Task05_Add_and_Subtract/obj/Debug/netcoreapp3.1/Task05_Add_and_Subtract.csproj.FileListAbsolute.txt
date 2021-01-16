@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\04_Exercise\Task05_Add_and_Subtract\bin\Debug\netcoreapp3.1\Task05_Add_and_Subtract.exe
+C:\Users\Kiril\source\repos\04_Exercise\Task05_Add_and_Subtract\bin\Debug\netcoreapp3.1\Task05_Add_and_Subtract.deps.json
+C:\Users\Kiril\source\repos\04_Exercise\Task05_Add_and_Subtract\bin\Debug\netcoreapp3.1\Task05_Add_and_Subtract.runtimeconfig.json
+C:\Users\Kiril\source\repos\04_Exercise\Task05_Add_and_Subtract\bin\Debug\netcoreapp3.1\Task05_Add_and_Subtract.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\04_Exercise\Task05_Add_and_Subtract\bin\Debug\netcoreapp3.1\Task05_Add_and_Subtract.dll
+C:\Users\Kiril\source\repos\04_Exercise\Task05_Add_and_Subtract\bin\Debug\netcoreapp3.1\Task05_Add_and_Subtract.pdb
+C:\Users\Kiril\source\repos\04_Exercise\Task05_Add_and_Subtract\obj\Debug\netcoreapp3.1\Task05_Add_and_Subtract.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\04_Exercise\Task05_Add_and_Subtract\obj\Debug\netcoreapp3.1\Task05_Add_and_Subtract.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\04_Exercise\Task05_Add_and_Subtract\obj\Debug\netcoreapp3.1\Task05_Add_and_Subtract.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\04_Exercise\Task05_Add_and_Subtract\obj\Debug\netcoreapp3.1\Task05_Add_and_Subtract.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\04_Exercise\Task05_Add_and_Subtract\obj\Debug\netcoreapp3.1\Task05_Add_and_Subtract.dll
+C:\Users\Kiril\source\repos\04_Exercise\Task05_Add_and_Subtract\obj\Debug\netcoreapp3.1\Task05_Add_and_Subtract.pdb
+C:\Users\Kiril\source\repos\04_Exercise\Task05_Add_and_Subtract\obj\Debug\netcoreapp3.1\Task05_Add_and_Subtract.genruntimeconfig.cache
